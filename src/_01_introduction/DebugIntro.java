@@ -5,7 +5,7 @@ import java.util.Random;
 //1. Place breakpoints at different places in the code and see what 
 //   the values of the member variables are using the debugger.
 
-public class DebugIntro {
+public class DebugIntro extends Object {
 	private int memVar1 = 0;
 	
 	final double PI = 3.14159;
